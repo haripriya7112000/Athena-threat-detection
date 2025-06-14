@@ -159,7 +159,7 @@ Example row:
 ## 👨‍💻 Author
 
 Haripriya Arya
-Cybersecurity Enthusiast | ISO Consultant | VAPT Learner
+Cybersecurity Enthusiast | Penetration Tester
 
 ---
 
