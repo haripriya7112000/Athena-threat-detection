@@ -1,0 +1,11 @@
+#Tells Git which files/folders to ignore
+__pycache__/
+*.pyc
+*.pkl
+*.csv
+*.log
+*.sqlite3
+.env
+.venv/
+logs/
+alerts/
